@@ -7,7 +7,7 @@ import Logo from "../../assets/images/ldce-logo-crop.png"
 const Navbar = () => {
   return (
     <>
-      <nav>
+      <nav >
         <div className="wrapper">
           <div className="logo flex gap-x-2 items-center justify-center">
             {/* <a href="#">Logo</a> */}
